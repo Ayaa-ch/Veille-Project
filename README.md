@@ -74,7 +74,7 @@ Ouvrir le rapport : `powerbi/Dashboard.pbix` avec Power BI Desktop.
   - Égypte — L'ambitieux sous contrainte
   - Afrique du Sud — Le champion sous pression
   - Kenya — Le diversifié sous-financé
-- **Veille stratégique Maroc :** opportunités, risques et contraintes, tendances à surveiller
+- **Veille stratégique Maroc :**on a étudie les opportunités, risques et contraintes, tendances à surveiller
 
 ## Bibliographie et sources
 
