@@ -82,5 +82,3 @@ Ouvrir le rapport : `powerbi/Dashboard.pbix` avec Power BI Desktop.
 - Banque Mondiale – API indicateurs développement
 - Veille RSS / Google Alerts / Google Scholar (avril 2026)
 
----
-Rapport complet : *Veille Stratégique – Transition Énergétique en Afrique, Avril 2026*
