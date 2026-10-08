@@ -54,13 +54,15 @@ Fichier Excel source structuré en 4 volets :
 ## Aperçu du tableau de bord
 
 ### Dashboard 1 : Vue continentale — Afrique
-![Vue Afrique](screenshots/Afrique.png)
+<img src="screenshots/Afrique.png"  alt="Architecture"            width="660">
 
 ### Dashboard 2 : Profil détaillé par pays
-![Profil pays](screenshots/profil_pays.png)
+
+<img src="screenshots/profil_pays.png"  alt="Architecture"            width="660">
 
 ### Dashboard 3 : Répartition des projets ENR
-![Projets ENR](screenshots/Projets_enr.png)
+
+<img src="screenshots/Projets_enr.png)"  alt="Architecture"            width="660">
 
 Ouvrir le rapport : `powerbi/Dashboard.pbix` avec Power BI Desktop.
 
