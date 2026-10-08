@@ -62,7 +62,7 @@ Fichier Excel source structuré en 4 volets :
 
 ### Dashboard 3 : Répartition des projets ENR
 
-<img src="screenshots/Projets_enr.png)"  alt="Architecture"            width="660">
+<img src="screenshots/Projets_enr.png"  alt="Architecture"            width="660">
 
 Ouvrir le rapport : `powerbi/Dashboard.pbix` avec Power BI Desktop.
 
